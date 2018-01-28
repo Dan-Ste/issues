@@ -2,6 +2,7 @@
 
 GitHub issues parser
 
+Usage:
 ```elixir
-  usage: issues <user> <project> [ count | #{@default_count}]
+   issues <user> <project> [ count | #{@default_count}]
 ```
